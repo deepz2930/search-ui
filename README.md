@@ -8,7 +8,7 @@ The goal was to recreate the **UI, UX, and animations** as closely as possible, 
 ---
 
 ## 🚀 Demo
-👉 [Live Demo on Netlify](https://your-netlify-link-here.com)  
+👉 [Live Demo on Netlify](https://search-results-animation-ui.netlify.app/)  
 
 ---
 
